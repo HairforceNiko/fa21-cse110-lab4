@@ -32,6 +32,7 @@ The length is a constant variable which represents the length of prices. In this
 The discounted save the constant value of discountedPrice which represents price[i] * 0.5. So the value saved in discounted will be 100* 0.5 = 50, 200* 0.5 = 100, 300* 0.5 = 150. <br />
 <br />
 12. A) student.name <br /> B) student["Grad Year"] <br /> C) student.greeting() <br /> D) student["Favorite Teacher"].name <br /> E) student.courseLoad[0] <br /> <br />
-13. 
-14. 
-15. 
+13. A) 32 <br /> B) 1 <br /> C) 3 <br /> D) 3null <br /> E) 4 <br /> F) 0 <br /> G) 3undefined <br /> H) NaN <br /> <br /> 
+14. A) true <br /> B) false <br /> C) true <br /> D) false <br /> E) false <br /> F) true <br /> <br />
+15. == converts the variable values to the same type before performing comparison. And, === does not do any type conversion (coercion) and returns true only if both values and types are identical for the two variables being compared. <br /> <br />
+17. 
