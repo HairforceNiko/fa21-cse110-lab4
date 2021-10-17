@@ -36,4 +36,9 @@ The discounted save the constant value of discountedPrice which represents price
 14. A) true <br /> B) false <br /> C) true <br /> D) false <br /> E) false <br /> F) true <br /> <br />
 15. == converts the variable values to the same type before performing comparison. And, === does not do any type conversion (coercion) and returns true only if both values and types are identical for the two variables being compared. <br /> <br />
 17. We push every value in [1, 2, 3] into callback which represents doSomething function, and we return (num*2) back and push back into newArr[] which is [2,4,6]. <br />
-18. 
+19. The output is:<br />
+1 <br />
+4 <br />
+3 <br />
+2 <br />
+20.
