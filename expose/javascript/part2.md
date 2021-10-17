@@ -42,4 +42,3 @@ The discounted save the constant value of discountedPrice which represents price
 3 <br />
 2 <br />
 <br />
-20.
