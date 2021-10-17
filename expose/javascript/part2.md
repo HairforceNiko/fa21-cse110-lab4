@@ -31,4 +31,7 @@ The length is a constant variable which represents the length of prices. In this
 11. [50 ,100 ,150] <br />
 The discounted save the constant value of discountedPrice which represents price[i] * 0.5. So the value saved in discounted will be 100* 0.5 = 50, 200* 0.5 = 100, 300* 0.5 = 150. <br />
 <br />
-12. 
+12. A) student.name <br /> B) student["Grad Year"] <br /> C) student.greeting() <br /> D) student["Favorite Teacher"].name <br /> E) student.courseLoad[0] <br /> <br />
+13. 
+14. 
+15. 
